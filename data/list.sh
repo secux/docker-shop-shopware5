@@ -1,4 +1,4 @@
 #!/bin/sh
 
 
-git ls-remote --tags https://github.com/osCommerce/oscommerce2.git
+git ls-remote --tags https://github.com/shopware/shopware.git
